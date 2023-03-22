@@ -1,3 +1,3 @@
-# Cyrpto Tracking and Crypto Information Site
+# LearnGecko - Cyrpto Tracking and Crypto Information Site
 
 Work In Progress
